@@ -1,4 +1,4 @@
-## Hello, i am Luiz Paulo Nievola.
+## Hello, I’m Luiz Paulo Nievola.
  <div>
   <a href="https://github.com/maledicente">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maledicente&show_icons=true&theme=dracula&include_all_commits=true&count_private=false"/>
@@ -14,8 +14,7 @@
   <img align="center" alt="Luiz-Cpluplus" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="Luiz-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 </div><br>
-  
+ 
 <div> 
   <a href="https://instagram.com/paulonievola" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-
 </div>
