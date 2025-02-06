@@ -1,8 +1,8 @@
 ## Hello, I’m Luiz Paulo Nievola.
  <div>
   <a href="https://github.com/luizpaulonievola">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maledicente&show_icons=true&theme=dracula&include_all_commits=true&count_private=false"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maledicente&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luizpaulonievola&show_icons=true&theme=dracula&include_all_commits=true&count_private=false"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizpaulonievola&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Luiz-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
